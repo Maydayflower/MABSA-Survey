@@ -62,3 +62,6 @@ analysis**. KBS 2022 [[paper]](https://www.sciencedirect.com/science/article/pii
 
 ### 1.5 Multimodal Aspect-Category-Sentiment Triple Extraction(MACSTE)
 1. Li Yang, Jieming Wang, Jin-Cheon Na, and Jianfei Yu. **Generating Paraphrase Sentences for Multimodal Entity-Category-Sentiment Triple Extraction**. In Knowledge-Based Systems, 2023. [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705123005737)
+
+
+## 2.MABSA Datasets
