@@ -65,3 +65,9 @@ analysis**. KBS 2022 [[paper]](https://www.sciencedirect.com/science/article/pii
 
 
 ## 2.MABSA Datasets
+
+
+### 2.1 MNER Datasets
+
+### 2.2 MABSA Datasets
+
