@@ -10,7 +10,7 @@
 1. D. Lu, L. Neves, V. Carvalho, N. Zhang, H. Ji, **Visual attention model for name tagging in multimodal social media**, in: ACL 2018, 2018, pp. 1990– 1999. [[PDF]](https://aclanthology.org/P18-1185.pdf))
 2. Q. Zhang, J. Fu, X. Liu, X. Huang, **Adaptive co-attention network for named entity recognition in tweets**, in: AAAI 2018, volume 32, 2018. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/11962/11821)
 3. O. Arshad, I. Gallo, S. Nawaz, A. Calefati, et al., **Aiding intra-text representations with visual context for multimodal named entity recognition**, in: ICDAR 2019, IEEE Computer Society, 2019, pp. 337–342. [[PDF]](https://arxiv.org/pdf/1904.01356) 
-4. C. Zheng, Z. Wu, T. Wang, Y. Cai, Q. Li, **Object-aware multimodal named entity recognition in social media posts with adversarial learning**, IEEE Transactions on Multimedia 23 (2020) 2520–2532. [[PDF]]([Object-Aware Multimodal Named Entity Recognition in Social Media Posts With Adversarial Learning | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9154571))
+4. C. Zheng, Z. Wu, T. Wang, Y. Cai, Q. Li, **Object-aware multimodal named entity recognition in social media posts with adversarial learning**, IEEE Transactions on Multimedia 23 (2020) 2520–2532. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9154571))
 
 #### 1.1.2 Transformer-based methods
 
@@ -97,9 +97,9 @@
 
 Twitter-2015/2017 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/11962/11821)
 
-WikiDiverse [[Paper]](https://arxiv.org/pdf/2204.06347) [[Source]](https://github.com/wangxw5/wikiDiverse))
+WikiDiverse [[Paper]](https://arxiv.org/pdf/2204.06347) [[Source]](https://github.com/wangxw5/wikiDiverse)
 
-Twitter-GMNER [[Paper]](https://aclanthology.org/2023.acl-long.508.pdf) [[Source]](https://github.com/NUSTM/GMNER))
+Twitter-GMNER [[Paper]](https://aclanthology.org/2023.acl-long.508.pdf) [[Source]](https://github.com/NUSTM/GMNER)
 
 Twitter-FGMNER [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612322) [[Source]](https://github.com/NUSTM/FMNERG)
 
@@ -107,10 +107,10 @@ Twitter-FGMNER [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612322) [[S
 
 #### 2.2.1 MABSC Datasets
 
-Twitter-15/17 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5444&context=sis_research) [[Source]](https://github.com/jefferyYu/TomBERT))
+Twitter-15/17 [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5444&context=sis_research) [[Source]](https://github.com/jefferyYu/TomBERT)
 
 #### 2.2.2 MCBSC Datasets
 
-Multi-ZOL [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3807/3685) [[Source]](https://github.com/xunan0812/MIMN))
+Multi-ZOL [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3807/3685) [[Source]](https://github.com/xunan0812/MIMN)
 
-MASAD [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231221007931) [[Source]](https://github.com/DrJZhou/MASAD))
+MASAD [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231221007931) [[Source]](https://github.com/DrJZhou/MASAD)
